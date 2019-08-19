@@ -4,6 +4,6 @@ function updateDriverWithKeyAndValue() {}
 
 function destructivelyUpdateDriverWithKeyAndValue() {}
 
-function deleteFromDriverByKey {}
+function deleteFromDriverByKey() {}
 
-function destructivelyDeleteFromDriverByKey {}
+function destructivelyDeleteFromDriverByKey() {}
